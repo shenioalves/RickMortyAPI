@@ -1,0 +1,29 @@
+*{
+   margin: 0px;
+   padding: 0px;
+   font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+body{
+   background-image: url(img/rico.jpg);
+  
+}
+.character{
+   width: 320px;
+   height: 370px;
+   background-image: url(img/ricoo.jpg);
+   float: inline-start;
+   margin: 10px;
+
+}
+h1, h2, p{
+   padding-top: 10px;
+   color: rgb(255, 255, 255);
+   text-align: center;
+}
+
+img{
+   padding: 0px 10px;
+
+}
