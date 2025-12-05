@@ -27,3 +27,27 @@ img{
    padding: 0px 10px;
 
 }
+.modal {
+    display: none;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.7);
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content {
+    background: rgb(51, 153, 129);
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+}
+
+#closeModal {
+    float: right;
+    cursor: pointer;
+    font-size: 22px;
+}
