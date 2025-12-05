@@ -81,7 +81,7 @@ fetch(url)
     .catch(error => console.error('Erro:', error));
 ```
 
-##📚 Conceitos Abordados
+## 📚 Conceitos Abordados
 Fetch API
 
 Promises (then, catch)
