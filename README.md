@@ -79,3 +79,16 @@ fetch(url)
         });
     })
     .catch(error => console.error('Erro:', error));
+
+📚 Conceitos Abordados
+Fetch API
+
+Promises (then, catch)
+
+Manipulação do DOM
+
+Criação dinâmica de elementos
+
+Estrutura de dados de uma API REST
+
+Como ler documentação de APIs
